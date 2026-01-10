@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"icon": {
+			"type": "lucide",
+			"name": "cake"
+		},
+		"text": "Soumyaranjan Acharya"
+	},
+	{
+		"id": 2,
+		"icon": {
+			"type": "lucide",
+			"name": "earth"
+		},
+		"type": "lucide",
+		"text": "Web Developer from India"
+	}
+]
