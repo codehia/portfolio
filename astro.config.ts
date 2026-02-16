@@ -19,17 +19,18 @@ const config = defineConfig({
 			name: 'Soumyaranjan Acharya',
 			openGraph: {
 				home: {
-					title: 'Spectre',
-					description: 'A minimalistic theme for Astro.',
+					title: 'Soumyaranjan',
+					description: 'Soumyaranjan Personal Portfolio',
 				},
 				blog: {
-					title: 'Blog',
-					description: 'News and guides for Spectre.',
+					title: "Soumyaranjan's Blog",
+					description: 'Thoughts, stories and ideas on programming, web development and more.',
 				},
 				projects: {
-					title: 'Projects',
+					title: "Soumyaranjan's Projects",
 				},
 			},
+			// for comments (Can enable later)
 			giscus: false,
 		}),
 	],
