@@ -25,3 +25,6 @@ pnpm-debug.log*
 .vscode/
 .devenv/
 .devenv*
+devenv.lock
+
+CLAUDE*
