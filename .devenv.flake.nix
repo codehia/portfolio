@@ -15,7 +15,7 @@
   container_name = null;
   active_profiles = [
   ];
-  hostname = "personal";
+  hostname = "thinkpad";
   username = "deus";
   git_root = "/home/deus/workspace/personal/portfolio";
   secretspec = null;
@@ -52,7 +52,7 @@
   container_name = null;
   active_profiles = [
   ];
-  hostname = "personal";
+  hostname = "thinkpad";
   username = "deus";
   git_root = "/home/deus/workspace/personal/portfolio";
   secretspec = null;
